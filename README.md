@@ -5,3 +5,5 @@ Firstly, the base motor gearbox was changed to strain wave gear instead of plane
 I also changed the placement and type of motor drivers, they are all in single box with the microcontroller, the wiring is a bit more messy, but I didnt have other options at the time.
 also the firmware is changed, it is capable to read from SDcard txt files that contain "G-code" it can also be controlled with the same gcode over the serial bus.
 those changes should make the build slightly less expensive.
+
+If i have time on the future I will overhaul this project, but for the time being there is no time for that.
