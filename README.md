@@ -6,4 +6,4 @@ I also changed the placement and type of motor drivers, they are all in single b
 also the firmware is changed, it is capable to read from SDcard txt files that contain "G-code" it can also be controlled with the same gcode over the serial bus.
 those changes should make the build slightly less expensive.
 
-If i have time on the future I will overhaul this project, but for the time being there is no time for that.
+If i have time in the future I will overhaul this project, but for the time being there is no time for that.
